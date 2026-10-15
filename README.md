@@ -22,7 +22,7 @@ This project demonstrates core software engineering principles, including comman
 - **Standard Library:** `sys`, `os`, `json`, `datetime`
 
 No external libraries or frameworks required.
-Project-URL: https://github.com/shashwatip2906/task-tracker-CLI
+Project-URL: [https://github.com/shashwatip2906/task-tracker-CLI](https://roadmap.sh/projects/task-tracker)
 
 ---
 
